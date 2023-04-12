@@ -1,6 +1,7 @@
 # Lite-Mono-ONNX-Sample
 単眼深度推定モデルの[Lite-Mono](https://github.com/noahzn/Lite-Mono)のPythonでのONNX推論サンプルです。<br>
 ONNXに変換したモデルも同梱しています。変換自体を試したい方は[Lite-Mono-Convert2ONNX.ipynb](Lite-Mono-Convert2ONNX.ipynb)を使用ください。<br>
+以下の動画はCPU推論(Core i7-8750H)です。<br>
 
 https://user-images.githubusercontent.com/37477845/231474999-ea69d150-2dbf-4840-b276-d30441ecd2b2.mp4
 
