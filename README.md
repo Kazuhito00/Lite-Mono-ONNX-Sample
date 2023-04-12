@@ -4,7 +4,7 @@ ONNXに変換したモデルも同梱しています。<br>
 変換自体を試したい方はColaboratoryで[Lite-Mono-Convert2ONNX.ipynb](Lite-Mono-Convert2ONNX.ipynb)を使用ください。<br>
 以下の動画はCPU推論(Core i7-8750H)です。<br>
 
-https://user-images.githubusercontent.com/37477845/231474999-ea69d150-2dbf-4840-b276-d30441ecd2b2.mp4
+https://user-images.githubusercontent.com/37477845/231604864-93506c62-55aa-4c64-a516-b28cd35fb91a.mp4
 
 # Requirement 
 * OpenCV 4.5.3.56 or later
